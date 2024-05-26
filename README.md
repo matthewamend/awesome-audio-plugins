@@ -33,4 +33,5 @@ A curated list of awesome audio plugin-related tools and resources, as well as s
 
 ## Online Communities
 [Rust Audio Discord](discord.gg/) - A Discord server dedicated to writing audio software in Rust.
-[KVR Audio Forum](https://www.kvraudio.com/forum/) - 
+
+[KVR Audio Forum](https://www.kvraudio.com/forum/) - A forum dedicated to plugin development.
