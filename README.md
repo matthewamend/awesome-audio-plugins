@@ -9,6 +9,7 @@ A curated list of awesome audio plugin-related tools and resources, as well as s
 - [Online Communities](#online-communities)
 <!-- - [Learning Resources](#learning-resources) -->
 <!-- - [Open Source Plugins](#open-source-plugins) -->
+- [More Lists](#more-lists)
 
 ## APIs
 [CLAP](https://cleveraudio.org) - A featureful, cross platform, open source plugin API that is supported by many different DAWs in C with bindings to many languages.
@@ -35,3 +36,8 @@ A curated list of awesome audio plugin-related tools and resources, as well as s
 [Rust Audio Discord](discord.gg/) - A Discord server dedicated to writing audio software in Rust.
 
 [KVR Audio Forum](https://www.kvraudio.com/forum/) - A forum dedicated to plugin development.
+
+## More Lists
+[Awesome Audio DSP](https://github.com/BillyDM/awesome-audio-dsp) - A great list of everything DSP-related, featuring almost everything in this list, and more!
+
+[Awesome Rust Audio](https://github.com/kfrncs/awesome-rust-audio) - An awesome(TM) list of audio programming tools specifically meant for the Rust language.
